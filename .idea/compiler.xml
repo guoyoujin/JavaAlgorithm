@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaAdapter" />
+        <module name="JavaBuilder" />
+        <module name="JavaFactory" />
+        <module name="JavaInterceptingFilter" />
+        <module name="JavaObserver" />
+        <module name="JavaSingleton" />
+        <module name="JavaSort" />
+        <module name="JavaStrategy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaAdapter" target="1.7" />
+      <module name="JavaAlgorithm" target="1.8" />
+      <module name="JavaBuilder" target="1.7" />
+      <module name="JavaFactory" target="1.7" />
+      <module name="JavaInterceptingFilter" target="1.7" />
+      <module name="JavaObserver" target="1.7" />
+      <module name="JavaSingleton" target="1.7" />
+      <module name="JavaSort" target="1.8" />
+      <module name="JavaStrategy" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
