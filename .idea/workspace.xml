@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89dd3f55-1443-4db4-94f3-c7a77816476f" name="Default" comment="" />
+    <list default="true" id="89dd3f55-1443-4db4-94f3-c7a77816476f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/ChooseSort.java" afterPath="$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/ChooseSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/InsertSort.java" afterPath="$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/InsertSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/ChooseSortTest.java" afterPath="$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/ChooseSortTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/InsertSortTest.java" afterPath="$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/InsertSortTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/JavaSort/target/" />
@@ -26,6 +32,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ChooseSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/ChooseSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaBuilder/src/main/java/com/trycatch/java/algorithm/builder/Product.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,6 +60,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Director.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaBuilder/src/main/java/com/trycatch/java/algorithm/builder/Director.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,10 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChooseSortTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/ChooseSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaInterceptingFilter/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-3">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -77,6 +113,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="InsertSortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/InsertSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ConcreteBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaBuilder/src/main/java/com/trycatch/java/algorithm/builder/ConcreteBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,15 +133,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Builder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaBuilder/src/main/java/com/trycatch/java/algorithm/builder/Builder.java">
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="676">
+              <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,10 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/ProductPig.java" />
-        <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/ProductDog.java" />
-        <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/high/Product.java" />
-        <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/high/ProductDog.java" />
         <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/high/Factory.java" />
         <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/FactoryDog.java" />
         <option value="$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/FactoryPig.java" />
@@ -179,6 +218,10 @@
         <option value="$PROJECT_DIR$/JavaBuilder/src/test/java/com/trycatch/java/algorithm/builder/BuilderTest.java" />
         <option value="$PROJECT_DIR$/JavaBuilder/src/main/java/com/trycatch/java/algorithm/builder/ConcreteBuilder.java" />
         <option value="$PROJECT_DIR$/JavaInterceptingFilter/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/InsertSortTest.java" />
+        <option value="$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/ChooseSortTest.java" />
+        <option value="$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/ChooseSort.java" />
       </list>
     </option>
   </component>
@@ -230,25 +273,25 @@
             <path>
               <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterceptingFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterceptingFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterceptingFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterceptingFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -256,11 +299,45 @@
             <path>
               <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInterceptingFilter" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSort" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,6 +353,9 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -301,7 +381,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BuilderTest.test">
+  <component name="RunManager" selected="JUnit.ChooseSortTest.chooseSort">
     <configuration name="AdapterTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -352,19 +432,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChooseSortTest.chooseSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.trycatch.java.algorithm.factory.method.*" />
+          <option name="PATTERN" value="com.trycatch.java.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="JavaFactory" />
+      <module name="JavaSort" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.trycatch.java.algorithm.factory.method" />
-      <option name="MAIN_CLASS_NAME" value="com.trycatch.java.algorithm.factory.method.FactoryTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.trycatch.java.algorithm.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.trycatch.java.algorithm.sort.ChooseSortTest" />
+      <option name="METHOD_NAME" value="chooseSort" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -377,19 +457,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FatcoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertSortTest.selfSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.trycatch.java.algorithm.factory.abst.*" />
+          <option name="PATTERN" value="com.trycatch.java.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="JavaFactory" />
+      <module name="JavaSort" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.trycatch.java.algorithm.factory.abst" />
-      <option name="MAIN_CLASS_NAME" value="com.trycatch.java.algorithm.factory.abst.FatcoryTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.trycatch.java.algorithm.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.trycatch.java.algorithm.sort.InsertSortTest" />
+      <option name="METHOD_NAME" value="selfSort" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -509,19 +589,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FactoryTest.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FatcoryTest.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.OperationContextTest.test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AdapterTest.test1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BuilderTest.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.OperationContextTest.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AdapterTest.test1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BuilderTest.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.InsertSortTest.selfSort" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ChooseSortTest.chooseSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BuilderTest.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AdapterTest.test1" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.OperationContextTest.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FatcoryTest.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FactoryTest.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ChooseSortTest.chooseSort" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.InsertSortTest.selfSort" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BuilderTest.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AdapterTest.test1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.OperationContextTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -543,47 +623,48 @@
       <workItem from="1535595900450" duration="10346000" />
       <workItem from="1536111098047" duration="6314000" />
       <workItem from="1536199385546" duration="13000" />
-      <workItem from="1536200496551" duration="14422000" />
+      <workItem from="1536200496551" duration="16491000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdapterTest_test1 - 2018.09.07 at 10h 02m 02s.xml">
-      <configuration name="AdapterTest.test1" configurationId="JUnit" />
+    <history-entry file="ChooseSortTest_chooseSort - 2018.09.10 at 10h 49m 02s.xml">
+      <configuration name="ChooseSortTest.chooseSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdapterTest_test1 - 2018.09.07 at 10h 02m 54s.xml">
-      <configuration name="AdapterTest.test1" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 35m 42s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BuilderTest_test - 2018.09.07 at 10h 17m 44s.xml">
-      <configuration name="BuilderTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 37m 44s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BuilderTest_test - 2018.09.07 at 10h 18m 25s.xml">
-      <configuration name="BuilderTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 38m 15s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BuilderTest_test - 2018.09.07 at 10h 18m 39s.xml">
-      <configuration name="BuilderTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 38m 27s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BuilderTest_test - 2018.09.07 at 10h 21m 22s.xml">
-      <configuration name="BuilderTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 39m 09s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BuilderTest_test - 2018.09.07 at 10h 23m 07s.xml">
-      <configuration name="BuilderTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 41m 55s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationContextTest_test - 2018.09.06 at 17h 41m 38s.xml">
-      <configuration name="OperationContextTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 42m 15s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationContextTest_test - 2018.09.06 at 17h 42m 27s.xml">
-      <configuration name="OperationContextTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 42m 55s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OperationContextTest_test - 2018.09.06 at 17h 55m 05s.xml">
-      <configuration name="OperationContextTest.test" configurationId="JUnit" />
+    <history-entry file="InsertSortTest_selfSort - 2018.09.10 at 10h 43m 35s.xml">
+      <configuration name="InsertSortTest.selfSort" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31095000" />
+    <option name="totallyTimeSpent" value="33164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -596,17 +677,17 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24667259" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20127796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15495208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3007986" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3007986" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -623,54 +704,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/high/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaFactory/src/test/java/com/trycatch/java/algorithm/factory/easy/ProductFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/ProductFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/ProductDog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/easy/ProductPig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaFactory/src/main/java/com/trycatch/java/algorithm/factory/method/FactoryPig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1089,8 +1127,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaInterceptingFilter/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-3">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/InsertSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSort/src/main/java/com/trycatch/java/algorithm/sort/ChooseSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSort/src/test/java/com/trycatch/java/algorithm/sort/ChooseSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1098,9 +1176,80 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaAdapter</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

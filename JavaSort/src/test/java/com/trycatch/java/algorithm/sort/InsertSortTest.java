@@ -24,4 +24,14 @@ public class InsertSortTest {
         System.out.println("end result ============>");
         System.out.println(Arrays.toString(array));
     }
+
+
+
+    @Test
+    public void selfSort(){
+        int[] array = {51,56,1,2,3,27,10,45,90,3,24,56,36,12,10,9};
+        InsertSort.selfSort(array);
+        System.out.println("end result ============>");
+        System.out.println(Arrays.toString(array));
+    }
 }

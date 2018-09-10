@@ -6,7 +6,6 @@ import java.util.List;
 
 public class ChooseSort {
     public static int[] sort(int[] array){
-        List<String> list = new ArrayList<String>();
         if (array==null || array.length<=0) return null;
         int i=0,j=0,temp=0,count=0;
         System.out.println("数组:"+Arrays.toString(array));
@@ -23,6 +22,26 @@ public class ChooseSort {
             System.out.println("交换之后:"+Arrays.toString(array));
         }
         System.out.println("交换结果:"+count);
+        return array;
+    }
+
+
+    public static int[] chooseSort(int[] array){
+        if (array==null || array.length<=0) return null;
+        int i=0,j=0,temp=0,count=0;
+        for (i=0;i<array.length;i++){
+            int k = i;
+            for (j=i+1;j<array.length;j++){
+                if(array[j]<array[k]){
+                    k = j;
+                }
+            }
+            if(k!=i){
+                temp = array[i];
+                array[i]=array[k];
+                array[k]=temp;
+            }
+        }
         return array;
     }
 }

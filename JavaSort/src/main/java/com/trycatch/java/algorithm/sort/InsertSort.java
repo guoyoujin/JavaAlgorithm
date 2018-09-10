@@ -45,6 +45,26 @@ public class InsertSort {
         System.out.println(count);
         return array;
     }
+
+    public static int[]  selfSort(int[] array){
+        if(array==null && array.length<=0){
+            return null;
+        }
+        System.out.println("原数组："+Arrays.toString(array));
+        for(int i=1;i<array.length;i++){
+            int temp = array[i];
+            for(int j=i;j>=0;j--){
+                if(j>0&&array[j-1]>temp){
+                    array[j] = array[j-1];
+                }else{
+                    array[j] = temp;
+                    break;//必不可少
+                }
+            }
+
+        }
+        return array;
+    }
 }
 
 
