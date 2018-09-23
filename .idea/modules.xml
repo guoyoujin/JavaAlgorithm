@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSingleton/JavaSingleton.iml" filepath="$PROJECT_DIR$/JavaSingleton/JavaSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSort/JavaSort.iml" filepath="$PROJECT_DIR$/JavaSort/JavaSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStrategy/JavaStrategy.iml" filepath="$PROJECT_DIR$/JavaStrategy/JavaStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTreeNode/JavaTreeNode.iml" filepath="$PROJECT_DIR$/JavaTreeNode/JavaTreeNode.iml" />
     </modules>
   </component>
 </project>
