@@ -18,6 +18,7 @@
       <module>JavaBuilder</module>
       <module>JavaInterceptingFilter</module>
       <module>JavaTreeNode</module>
+      <module>JavaString</module>
   </modules>
 
   <name>JavaAlgorithm</name>

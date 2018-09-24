@@ -1,6 +1,15 @@
 package com.trycatch.java.algorithm.treenode;
 
 public class TreeNodeMethod {
+
+
+    /**      10
+     *     /    \
+     *    9     20
+     *         /  \
+     *        15   35
+     * @return
+     */
     public static TreeNode getTreeNode(){
         TreeNode treeNode9 = new TreeNode(9L);
         TreeNode treeNode10 = new TreeNode(10L);
@@ -14,6 +23,13 @@ public class TreeNodeMethod {
         return treeNode10;
     }
 
+    /**       9
+     *     /    \
+     *    10     20
+     *         /  \
+     *        15   35
+     * @return
+     */
     public static TreeNode getNotBTreeNode(){
         TreeNode treeNode9 = new TreeNode(9L);
         TreeNode treeNode10 = new TreeNode(10L);
@@ -141,7 +157,7 @@ public class TreeNodeMethod {
     }
 
     /**
-     * 验证是否合法的二分查找树
+     * 验证是否合法的二分查找树，左边小于根，右边大大于根
      * @param treeNode
      * @param minValue
      * @param maxValue
@@ -170,6 +186,13 @@ public class TreeNodeMethod {
         return getTreeNodeNum(treeNode.getLeftNode()) + getTreeNodeNum(treeNode.getRightNode())+1;
     }
 
+
+    /**
+     * 判断两个二叉树是否相等
+     * @param treeNode1
+     * @param treeNode2
+     * @return
+     */
     public static boolean isValidEqu(TreeNode treeNode1, TreeNode treeNode2){
         if(treeNode1 == null && treeNode2 == null){
             return true;
