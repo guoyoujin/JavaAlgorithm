@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaAdapter/JavaAdapter.iml" filepath="$PROJECT_DIR$/JavaAdapter/JavaAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/JavaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaArithmetic/JavaArithmetic.iml" filepath="$PROJECT_DIR$/JavaArithmetic/JavaArithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBuilder/JavaBuilder.iml" filepath="$PROJECT_DIR$/JavaBuilder/JavaBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFactory/JavaFactory.iml" filepath="$PROJECT_DIR$/JavaFactory/JavaFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaInterceptingFilter/JavaInterceptingFilter.iml" filepath="$PROJECT_DIR$/JavaInterceptingFilter/JavaInterceptingFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLinkNode/JavaLinkNode.iml" filepath="$PROJECT_DIR$/JavaLinkNode/JavaLinkNode.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaObserver/JavaObserver.iml" filepath="$PROJECT_DIR$/JavaObserver/JavaObserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSingleton/JavaSingleton.iml" filepath="$PROJECT_DIR$/JavaSingleton/JavaSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSort/JavaSort.iml" filepath="$PROJECT_DIR$/JavaSort/JavaSort.iml" />

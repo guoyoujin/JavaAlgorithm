@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JavaAdapter" />
+        <module name="JavaArithmetic" />
         <module name="JavaBuilder" />
         <module name="JavaFactory" />
         <module name="JavaInterceptingFilter" />
+        <module name="JavaLinkNode" />
         <module name="JavaObserver" />
         <module name="JavaSingleton" />
         <module name="JavaSort" />
@@ -21,9 +23,11 @@
     <bytecodeTargetLevel>
       <module name="JavaAdapter" target="1.7" />
       <module name="JavaAlgorithm" target="1.8" />
+      <module name="JavaArithmetic" target="1.7" />
       <module name="JavaBuilder" target="1.7" />
       <module name="JavaFactory" target="1.7" />
       <module name="JavaInterceptingFilter" target="1.7" />
+      <module name="JavaLinkNode" target="1.7" />
       <module name="JavaObserver" target="1.7" />
       <module name="JavaSingleton" target="1.7" />
       <module name="JavaSort" target="1.8" />

@@ -19,6 +19,8 @@
       <module>JavaInterceptingFilter</module>
       <module>JavaTreeNode</module>
       <module>JavaString</module>
+    <module>JavaArithmetic</module>
+      <module>JavaLinkNode</module>
   </modules>
 
   <name>JavaAlgorithm</name>
